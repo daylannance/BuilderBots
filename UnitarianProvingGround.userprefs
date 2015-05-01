@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TorqueBody.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UpDownMotorControl.cs">
     <Files>
-      <File FileName="Assets\FollowRobotNoPivot.cs" Line="15" Column="18" />
-      <File FileName="Assets\TorqueBody.cs" Line="26" Column="33" />
+      <File FileName="..\..\..\..\..\Tarot Solitaire Unity\Assets\SuitFoil.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Tarot Solitaire Unity\Assets\Scripts\CameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\MotorControl.cs" Line="23" Column="15" />
+      <File FileName="Assets\UpDownMotorControl.cs" Line="18" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
